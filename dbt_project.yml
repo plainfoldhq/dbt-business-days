@@ -1,0 +1,16 @@
+name: plainfold_calendars
+version: "0.1.0"
+config-version: 2
+require-dbt-version: [">=1.5.0", "<2.0.0"]
+seed-paths: ["seeds"]
+macro-paths: ["macros"]
+seeds:
+  plainfold_calendars:
+    plainfold_holidays:
+      +column_types:
+        pf_holiday_date: date
+    plainfold_business_days:
+      +column_types:
+        pf_date: date
+        pf_is_business_day: integer
+        pf_business_day_number: integer

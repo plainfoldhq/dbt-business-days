@@ -1,0 +1,405 @@
+pf_calendar,pf_holiday_date,pf_holiday_name
+EUR,2026-01-01,New Year's Day
+EUR,2026-04-03,Good Friday
+EUR,2026-04-06,Easter Monday
+EUR,2026-05-01,Labour Day
+EUR,2026-12-25,Christmas Day
+EUR,2027-01-01,New Year's Day
+EUR,2027-03-26,Good Friday
+EUR,2027-03-29,Easter Monday
+EUR,2028-04-14,Good Friday
+EUR,2028-04-17,Easter Monday
+EUR,2028-05-01,Labour Day
+EUR,2028-12-25,Christmas Day
+EUR,2028-12-26,Christmas Holiday
+GBP,2026-01-01,New Year's Day
+GBP,2026-04-03,Good Friday
+GBP,2026-04-06,Easter Monday
+GBP,2026-05-04,May Day
+GBP,2026-05-25,Spring Bank Holiday
+GBP,2026-08-31,Late Summer Bank Holiday
+GBP,2026-12-25,Christmas Day
+GBP,2026-12-28,Boxing Day (observed)
+GBP,2027-01-01,New Year's Day
+GBP,2027-03-26,Good Friday
+GBP,2027-03-29,Easter Monday
+GBP,2027-05-03,May Day
+GBP,2027-05-31,Spring Bank Holiday
+GBP,2027-08-30,Late Summer Bank Holiday
+GBP,2027-12-27,Christmas Day (observed)
+GBP,2027-12-28,Boxing Day (observed)
+GBP,2028-01-03,New Year's Day (observed)
+GBP,2028-04-14,Good Friday
+GBP,2028-04-17,Easter Monday
+GBP,2028-05-01,May Day
+GBP,2028-05-29,Spring Bank Holiday
+GBP,2028-08-28,Late Summer Bank Holiday
+GBP,2028-12-25,Christmas Day
+GBP,2028-12-26,Boxing Day
+JPY,2026-01-01,Bank Holiday; New Year's Day
+JPY,2026-01-02,Bank Holiday
+JPY,2026-01-12,Coming of Age Day
+JPY,2026-02-11,Foundation Day
+JPY,2026-02-23,Emperor's Birthday
+JPY,2026-03-20,Vernal Equinox Day
+JPY,2026-04-29,Showa Day
+JPY,2026-05-04,Greenery Day
+JPY,2026-05-05,Children's Day
+JPY,2026-05-06,Substitute Holiday
+JPY,2026-07-20,Marine Day
+JPY,2026-08-11,Mountain Day
+JPY,2026-09-21,Respect for the Aged Day
+JPY,2026-09-22,National Holiday
+JPY,2026-09-23,Autumnal Equinox Day
+JPY,2026-10-12,Sports Day
+JPY,2026-11-03,Culture Day
+JPY,2026-11-23,Labor Thanksgiving Day
+JPY,2026-12-31,Bank Holiday
+JPY,2027-01-01,Bank Holiday; New Year's Day
+JPY,2027-01-11,Coming of Age Day
+JPY,2027-02-11,Foundation Day
+JPY,2027-02-23,Emperor's Birthday
+JPY,2027-03-22,Substitute Holiday
+JPY,2027-04-29,Showa Day
+JPY,2027-05-03,Constitution Day
+JPY,2027-05-04,Greenery Day
+JPY,2027-05-05,Children's Day
+JPY,2027-07-19,Marine Day
+JPY,2027-08-11,Mountain Day
+JPY,2027-09-20,Respect for the Aged Day
+JPY,2027-09-23,Autumnal Equinox Day
+JPY,2027-10-11,Sports Day
+JPY,2027-11-03,Culture Day
+JPY,2027-11-23,Labor Thanksgiving Day
+JPY,2027-12-31,Bank Holiday
+JPY,2028-01-03,Bank Holiday
+JPY,2028-01-10,Coming of Age Day
+JPY,2028-02-11,Foundation Day
+JPY,2028-02-23,Emperor's Birthday
+JPY,2028-03-20,Vernal Equinox Day
+JPY,2028-05-03,Constitution Day
+JPY,2028-05-04,Greenery Day
+JPY,2028-05-05,Children's Day
+JPY,2028-07-17,Marine Day
+JPY,2028-08-11,Mountain Day
+JPY,2028-09-18,Respect for the Aged Day
+JPY,2028-09-22,Autumnal Equinox Day
+JPY,2028-10-09,Sports Day
+JPY,2028-11-03,Culture Day
+JPY,2028-11-23,Labor Thanksgiving Day
+NZD,2026-01-01,New Year's Day
+NZD,2026-01-02,Day after New Year's Day
+NZD,2026-01-19,Wellington Anniversary Day
+NZD,2026-02-06,Waitangi Day
+NZD,2026-04-03,Good Friday
+NZD,2026-04-06,Easter Monday
+NZD,2026-04-27,Anzac Day (observed)
+NZD,2026-06-01,King's Birthday
+NZD,2026-07-10,Matariki
+NZD,2026-10-26,Labour Day
+NZD,2026-12-25,Christmas Day
+NZD,2026-12-28,Boxing Day (observed)
+NZD,2027-01-01,New Year's Day
+NZD,2027-01-04,Day after New Year's Day (observed)
+NZD,2027-01-25,Wellington Anniversary Day
+NZD,2027-02-08,Waitangi Day (observed)
+NZD,2027-03-26,Good Friday
+NZD,2027-03-29,Easter Monday
+NZD,2027-04-26,Anzac Day (observed)
+NZD,2027-06-07,King's Birthday
+NZD,2027-06-25,Matariki
+NZD,2027-10-25,Labour Day
+NZD,2027-12-27,Christmas Day (observed)
+NZD,2027-12-28,Boxing Day (observed)
+NZD,2028-01-03,New Year's Day (observed)
+NZD,2028-01-04,Day after New Year's Day (observed)
+NZD,2028-01-24,Wellington Anniversary Day
+NZD,2028-02-07,Waitangi Day (observed)
+NZD,2028-04-14,Good Friday
+NZD,2028-04-17,Easter Monday
+NZD,2028-04-25,Anzac Day
+NZD,2028-06-05,King's Birthday
+NZD,2028-07-14,Matariki
+NZD,2028-10-23,Labour Day
+NZD,2028-12-25,Christmas Day
+NZD,2028-12-26,Boxing Day
+USD,2026-01-01,New Year's Day
+USD,2026-01-19,"Birthday of Martin Luther King, Jr."
+USD,2026-02-16,Washington's Birthday
+USD,2026-05-25,Memorial Day
+USD,2026-06-19,Juneteenth National Independence Day
+USD,2026-09-07,Labor Day
+USD,2026-10-12,Columbus Day
+USD,2026-11-11,Veterans Day
+USD,2026-11-26,Thanksgiving Day
+USD,2026-12-25,Christmas Day
+USD,2027-01-01,New Year's Day
+USD,2027-01-18,"Birthday of Martin Luther King, Jr."
+USD,2027-02-15,Washington's Birthday
+USD,2027-05-31,Memorial Day
+USD,2027-07-05,Independence Day (observed)
+USD,2027-09-06,Labor Day
+USD,2027-10-11,Columbus Day
+USD,2027-11-11,Veterans Day
+USD,2027-11-25,Thanksgiving Day
+USD,2028-01-17,"Birthday of Martin Luther King, Jr."
+USD,2028-02-21,Washington's Birthday
+USD,2028-05-29,Memorial Day
+USD,2028-06-19,Juneteenth National Independence Day
+USD,2028-07-04,Independence Day
+USD,2028-09-04,Labor Day
+USD,2028-10-09,Columbus Day
+USD,2028-11-23,Thanksgiving Day
+USD,2028-12-25,Christmas Day
+XASX,2026-01-01,New Year's Day
+XASX,2026-01-26,Australia Day
+XASX,2026-04-03,Good Friday
+XASX,2026-04-06,Easter Monday
+XASX,2026-06-08,King's Birthday
+XASX,2026-12-25,Christmas Day
+XASX,2026-12-28,Boxing Day
+XASX,2027-01-01,New Year's Day
+XASX,2027-01-26,Australia Day
+XASX,2027-03-26,Good Friday
+XASX,2027-03-29,Easter Monday
+XASX,2027-06-14,King's Birthday
+XASX,2027-12-27,Christmas Day
+XASX,2027-12-28,Boxing Day
+XASX,2028-01-03,New Year's Day
+XASX,2028-01-26,Australia Day
+XASX,2028-04-14,Good Friday
+XASX,2028-04-17,Easter Monday
+XASX,2028-04-25,ANZAC Day
+XASX,2028-06-12,King's Birthday
+XASX,2028-12-25,Christmas Day
+XASX,2028-12-26,Boxing Day
+XETR,2026-01-01,New Year's Day
+XETR,2026-04-03,Good Friday
+XETR,2026-04-06,Easter Monday
+XETR,2026-05-01,Labor Day
+XETR,2026-12-24,Christmas Eve
+XETR,2026-12-25,Christmas Day
+XETR,2026-12-31,New Year's Eve
+XETR,2027-01-01,New Year's Day
+XETR,2027-03-26,Good Friday
+XETR,2027-03-29,Easter Monday
+XETR,2027-12-24,Christmas Eve
+XETR,2027-12-31,New Year's Eve
+XETR,2028-04-14,Good Friday
+XETR,2028-04-17,Easter Monday
+XETR,2028-05-01,Labor Day
+XETR,2028-12-25,Christmas Day
+XETR,2028-12-26,Second Day of Christmas
+XHKG,2026-01-01,New Year's Day
+XHKG,2026-02-17,Chinese New Year
+XHKG,2026-02-18,The second day of Chinese New Year
+XHKG,2026-02-19,The third day of Chinese New Year
+XHKG,2026-04-03,Good Friday
+XHKG,2026-04-06,The day following Tomb-Sweeping Day
+XHKG,2026-04-07,The day following Easter Monday
+XHKG,2026-05-01,Labor Day
+XHKG,2026-05-25,The day following the Buddha's Birthday
+XHKG,2026-06-19,Dragon Boat Festival
+XHKG,2026-07-01,Hong Kong S.A.R. Establishment Day
+XHKG,2026-10-01,National Day
+XHKG,2026-10-19,The day following Double Ninth Festival
+XHKG,2026-12-25,Christmas Day
+XHKG,2027-01-01,New Year's Day
+XHKG,2027-02-08,The third day of Chinese New Year
+XHKG,2027-02-09,The fourth day of Chinese New Year
+XHKG,2027-03-26,Good Friday
+XHKG,2027-03-29,Easter Monday
+XHKG,2027-04-05,Tomb-Sweeping Day
+XHKG,2027-05-13,The Buddha's Birthday
+XHKG,2027-06-09,Dragon Boat Festival
+XHKG,2027-07-01,Hong Kong S.A.R. Establishment Day
+XHKG,2027-09-16,The Day following Mid-Autumn Festival
+XHKG,2027-10-01,National Day
+XHKG,2027-10-08,Double Ninth Festival
+XHKG,2027-12-27,The first weekday after Christmas Day
+XHKG,2028-01-26,Chinese New Year
+XHKG,2028-01-27,The second day of Chinese New Year
+XHKG,2028-01-28,The third day of Chinese New Year
+XHKG,2028-04-04,Tomb-Sweeping Day
+XHKG,2028-04-14,Good Friday
+XHKG,2028-04-17,Easter Monday
+XHKG,2028-05-01,Labor Day
+XHKG,2028-05-02,The Buddha's Birthday
+XHKG,2028-05-29,The day following Dragon Boat Festival
+XHKG,2028-10-02,The day following National Day
+XHKG,2028-10-04,The Day following Mid-Autumn Festival
+XHKG,2028-10-26,Double Ninth Festival
+XHKG,2028-12-25,Christmas Day
+XHKG,2028-12-26,The first weekday after Christmas Day
+XLON,2026-01-01,New Year's Day
+XLON,2026-04-03,Good Friday
+XLON,2026-04-06,Easter Monday
+XLON,2026-05-04,May Day
+XLON,2026-05-25,Spring Bank Holiday
+XLON,2026-08-31,Late Summer Bank Holiday
+XLON,2026-12-25,Christmas Day
+XLON,2026-12-28,Boxing Day (observed)
+XLON,2027-01-01,New Year's Day
+XLON,2027-03-26,Good Friday
+XLON,2027-03-29,Easter Monday
+XLON,2027-05-03,May Day
+XLON,2027-05-31,Spring Bank Holiday
+XLON,2027-08-30,Late Summer Bank Holiday
+XLON,2027-12-27,Christmas Day (observed)
+XLON,2027-12-28,Boxing Day (observed)
+XLON,2028-01-03,New Year's Day (observed)
+XLON,2028-04-14,Good Friday
+XLON,2028-04-17,Easter Monday
+XLON,2028-05-01,May Day
+XLON,2028-05-29,Spring Bank Holiday
+XLON,2028-08-28,Late Summer Bank Holiday
+XLON,2028-12-25,Christmas Day
+XLON,2028-12-26,Boxing Day
+XNYS,2026-01-01,New Year's Day
+XNYS,2026-01-19,Martin Luther King Jr. Day
+XNYS,2026-02-16,Washington's Birthday
+XNYS,2026-04-03,Good Friday
+XNYS,2026-05-25,Memorial Day
+XNYS,2026-06-19,Juneteenth National Independence Day
+XNYS,2026-07-03,Independence Day (observed)
+XNYS,2026-09-07,Labor Day
+XNYS,2026-11-26,Thanksgiving Day
+XNYS,2026-12-25,Christmas Day
+XNYS,2027-01-01,New Year's Day
+XNYS,2027-01-18,Martin Luther King Jr. Day
+XNYS,2027-02-15,Washington's Birthday
+XNYS,2027-03-26,Good Friday
+XNYS,2027-05-31,Memorial Day
+XNYS,2027-06-18,Juneteenth National Independence Day (observed)
+XNYS,2027-07-05,Independence Day (observed)
+XNYS,2027-09-06,Labor Day
+XNYS,2027-11-25,Thanksgiving Day
+XNYS,2027-12-24,Christmas Day (observed)
+XNYS,2028-01-17,Martin Luther King Jr. Day
+XNYS,2028-02-21,Washington's Birthday
+XNYS,2028-04-14,Good Friday
+XNYS,2028-05-29,Memorial Day
+XNYS,2028-06-19,Juneteenth National Independence Day
+XNYS,2028-07-04,Independence Day
+XNYS,2028-09-04,Labor Day
+XNYS,2028-11-23,Thanksgiving Day
+XNYS,2028-12-25,Christmas Day
+XPAR,2026-01-01,New Year's Day
+XPAR,2026-04-03,Good Friday
+XPAR,2026-04-06,Easter Monday
+XPAR,2026-05-01,Labor Day
+XPAR,2026-12-25,Christmas Day
+XPAR,2027-01-01,New Year's Day
+XPAR,2027-03-26,Good Friday
+XPAR,2027-03-29,Easter Monday
+XPAR,2028-04-14,Good Friday
+XPAR,2028-04-17,Easter Monday
+XPAR,2028-05-01,Labor Day
+XPAR,2028-12-25,Christmas Day
+XPAR,2028-12-26,Saint Stephen's Day
+XSWX,2026-01-01,New Year's Day
+XSWX,2026-01-02,Saint Berchtold's Day
+XSWX,2026-04-03,Good Friday
+XSWX,2026-04-06,Easter Monday
+XSWX,2026-05-01,Labor Day
+XSWX,2026-05-14,Ascension Day
+XSWX,2026-05-25,Pentecost Monday
+XSWX,2026-12-24,Christmas Eve
+XSWX,2026-12-25,Christmas Day
+XSWX,2026-12-31,New Year's Eve
+XSWX,2027-01-01,New Year's Day
+XSWX,2027-03-26,Good Friday
+XSWX,2027-03-29,Easter Monday
+XSWX,2027-05-06,Ascension Day
+XSWX,2027-05-17,Pentecost Monday
+XSWX,2027-12-24,Christmas Eve
+XSWX,2027-12-31,New Year's Eve
+XSWX,2028-04-14,Good Friday
+XSWX,2028-04-17,Easter Monday
+XSWX,2028-05-01,Labor Day
+XSWX,2028-05-25,Ascension Day
+XSWX,2028-06-05,Pentecost Monday
+XSWX,2028-08-01,National Day
+XSWX,2028-12-25,Christmas Day
+XSWX,2028-12-26,Saint Stephen's Day
+XTKS,2026-01-01,New Year's Day
+XTKS,2026-01-02,Market holiday (year-end break)
+XTKS,2026-01-12,Coming of Age Day
+XTKS,2026-02-11,Foundation Day
+XTKS,2026-02-23,Emperor's Birthday
+XTKS,2026-03-20,Vernal Equinox Day
+XTKS,2026-04-29,Showa Day
+XTKS,2026-05-04,Greenery Day
+XTKS,2026-05-05,Children's Day
+XTKS,2026-05-06,Substitute Holiday
+XTKS,2026-07-20,Marine Day
+XTKS,2026-08-11,Mountain Day
+XTKS,2026-09-21,Respect for the Aged Day
+XTKS,2026-09-22,National Holiday
+XTKS,2026-09-23,Autumnal Equinox Day
+XTKS,2026-10-12,Sports Day
+XTKS,2026-11-03,Culture Day
+XTKS,2026-11-23,Labor Thanksgiving Day
+XTKS,2026-12-31,Market holiday (year-end break)
+XTKS,2027-01-01,New Year's Day
+XTKS,2027-01-11,Coming of Age Day
+XTKS,2027-02-11,Foundation Day
+XTKS,2027-02-23,Emperor's Birthday
+XTKS,2027-03-22,Substitute Holiday
+XTKS,2027-04-29,Showa Day
+XTKS,2027-05-03,Constitution Day
+XTKS,2027-05-04,Greenery Day
+XTKS,2027-05-05,Children's Day
+XTKS,2027-07-19,Marine Day
+XTKS,2027-08-11,Mountain Day
+XTKS,2027-09-20,Respect for the Aged Day
+XTKS,2027-09-23,Autumnal Equinox Day
+XTKS,2027-10-11,Sports Day
+XTKS,2027-11-03,Culture Day
+XTKS,2027-11-23,Labor Thanksgiving Day
+XTKS,2027-12-31,Market holiday (year-end break)
+XTKS,2028-01-03,Market holiday (year-end break)
+XTKS,2028-01-10,Coming of Age Day
+XTKS,2028-02-11,Foundation Day
+XTKS,2028-02-23,Emperor's Birthday
+XTKS,2028-03-20,Vernal Equinox Day
+XTKS,2028-05-03,Constitution Day
+XTKS,2028-05-04,Greenery Day
+XTKS,2028-05-05,Children's Day
+XTKS,2028-07-17,Marine Day
+XTKS,2028-08-11,Mountain Day
+XTKS,2028-09-18,Respect for the Aged Day
+XTKS,2028-09-22,Autumnal Equinox Day
+XTKS,2028-10-09,Sports Day
+XTKS,2028-11-03,Culture Day
+XTKS,2028-11-23,Labor Thanksgiving Day
+XTSE,2026-01-01,New Year's Day
+XTSE,2026-02-16,Family Day
+XTSE,2026-04-03,Good Friday
+XTSE,2026-05-18,Victoria Day
+XTSE,2026-07-01,Canada Day
+XTSE,2026-08-03,Civic Holiday
+XTSE,2026-09-07,Labor Day
+XTSE,2026-10-12,Thanksgiving Day
+XTSE,2026-12-25,Christmas Day
+XTSE,2026-12-28,Boxing Day
+XTSE,2027-01-01,New Year's Day
+XTSE,2027-02-15,Family Day
+XTSE,2027-03-26,Good Friday
+XTSE,2027-05-24,Victoria Day
+XTSE,2027-07-01,Canada Day
+XTSE,2027-08-02,Civic Holiday
+XTSE,2027-09-06,Labor Day
+XTSE,2027-10-11,Thanksgiving Day
+XTSE,2027-12-27,Christmas Day
+XTSE,2027-12-28,Boxing Day
+XTSE,2028-01-03,New Year's Day
+XTSE,2028-02-21,Family Day
+XTSE,2028-04-14,Good Friday
+XTSE,2028-05-22,Victoria Day
+XTSE,2028-07-03,Canada Day
+XTSE,2028-08-07,Civic Holiday
+XTSE,2028-09-04,Labor Day
+XTSE,2028-10-09,Thanksgiving Day
+XTSE,2028-12-25,Christmas Day
+XTSE,2028-12-26,Boxing Day

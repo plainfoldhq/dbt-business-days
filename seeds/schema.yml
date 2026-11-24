@@ -1,0 +1,6 @@
+version: 2
+seeds:
+  - name: plainfold_holidays
+    description: "Weekday holidays 2026-2028 per calendar (closed days only; exchange early closes are trading days)."
+  - name: plainfold_business_days
+    description: "One row per calendar and day 2026-2028: pf_is_business_day (1/0) and pf_business_day_number (running count of business days from 2026-01-01, inclusive)."

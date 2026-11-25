@@ -46,7 +46,7 @@ Only 2026-2028. Future closures follow current rules; exchanges and governments 
 
 ## 2000-2050 and more calendars
 
-The full datasets cover 2000-2050: [Currency Settlement Holidays + FX Spot Dates](https://buy.polar.sh/polar_cl_9Rkaup8QpzW7cYaFe9nRx0AEiUSxVLMzYyU1K23uuVP) ($19), [World Stock Exchange Holidays + Trading Hours](https://buy.polar.sh/polar_cl_8VwWMpQhsLCYXsPRdkmYGjbJzuzlHQB9Ul3GC3dlJW7) ($15), [US federal, NYSE and Fed calendar](https://buy.polar.sh/polar_cl_oW9ytw22HhxLxOnke3W8ibcgTXepc2hYuAEyl1gTqqB) ($15), or every Plainfold data pack in [All-Access](https://buy.polar.sh/polar_cl_xydfuofU72fdp6xSOHFtihAuniUFagYOwR9zf2M03Gl) ($49/year). Each includes a PostgreSQL loader; the date dimension pack includes a dbt seed config.
+The full datasets cover 2000-2050: [Currency Settlement Holidays + FX Spot Dates](https://buy.polar.sh/polar_cl_9Rkaup8QpzW7cYaFe9nRx0AEiUSxVLMzYyU1K23uuVP?utm_source=github&utm_medium=readme&utm_campaign=Q&utm_content=dbt-business-days) ($19), [World Stock Exchange Holidays + Trading Hours](https://buy.polar.sh/polar_cl_8VwWMpQhsLCYXsPRdkmYGjbJzuzlHQB9Ul3GC3dlJW7?utm_source=github&utm_medium=readme&utm_campaign=G&utm_content=dbt-business-days) ($15), [US federal, NYSE and Fed calendar](https://buy.polar.sh/polar_cl_oW9ytw22HhxLxOnke3W8ibcgTXepc2hYuAEyl1gTqqB?utm_source=github&utm_medium=readme&utm_campaign=B&utm_content=dbt-business-days) ($15), or every Plainfold data pack in [All-Access](https://buy.polar.sh/polar_cl_xydfuofU72fdp6xSOHFtihAuniUFagYOwR9zf2M03Gl?utm_source=github&utm_medium=readme&utm_campaign=ALLACCESS&utm_content=dbt-business-days) ($49/year). Each includes a PostgreSQL loader; the date dimension pack includes a dbt seed config.
 
 ## License
 
